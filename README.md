@@ -1,4 +1,4 @@
-# 🛒 dsa_auctionproject – Java-Based Console Auction System
+# dsa_auctionproject – Java-Based Console Auction System
 
 This is a **Java console application** simulating an **Online Auction System**, built as part of a college Data Structures & Algorithms (DSA) project. It allows users to register, list products, place bids, and view auction winners — all through a simple command-line interface.
 
